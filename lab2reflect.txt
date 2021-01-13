@@ -1,0 +1,22 @@
+********************
+* Lab 2 Reflection *
+********************
+Name: Umair Liaqat
+ID:1876697   
+
+
+-----------------------------------------------------------
+1) &value: 0xc (&value is at 0x7fffffffd9ec)
+   &array: 0x10 (%esp was 0x7fffffffd9e0, &array was 0x7fffffffd9f0)
+-----------------------------------------------------------
+2) Registers: %eax and %ecx
+-----------------------------------------------------------
+3) Init:   <fillArray+40>
+   Update: <fillArray+146>
+-----------------------------------------------------------
+4) Replacement Instruction: lea 0x10(%rsp), %rax 
+-----------------------------------------------------------
+5) String address: 0x400c72 
+   Assembly instruction: <part2+8> mov $0x400c72, %edi
+   Part of memory: literal 
+-----------------------------------------------------------

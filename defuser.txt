@@ -1,0 +1,6 @@
+Oh, play it cool. Play it cool. Here come the space cops.
+1 1 1 1 1 1
+5 4294966325
+2
+abcdef
+2 6 5 3 4 1
